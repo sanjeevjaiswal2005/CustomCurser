@@ -13,3 +13,4 @@ main.addEventListener("touchmove", (e) => {
   crsr.style.left = touch.clientX + "px";
   crsr.style.top = touch.clientY + "px";
 });
+
